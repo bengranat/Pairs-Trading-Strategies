@@ -1,3 +1,5 @@
+Pairs Trading Strategies & Optimal Execution: Profit Evaluation
+
 • Curated a dataset of the top 100 publicly traded companies based on market capitalization using Yahoo Finance, ensuring robust data quality by filtering out illiquid stocks, redundant tickers (e.g., GOOG vs. GOOGL), and unreliable data (e.g., GTOFF, which exhibited missing or unrealistic prices). Transformed adjusted closing prices using log-scaling for standardization and selected only highly capitalized stocks to minimize volatility and ensure comprehensive historical data.
 
 
